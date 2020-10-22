@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>خلاصه تاریخ مردمان هزاره Blog</title>
+        <link>https://mrahmani71.github.io//blog</link>
+        <description>The best place to stay up-to-date with the latest خلاصه تاریخ مردمان هزاره news and events.</description>
+        <lastBuildDate>Tue, 26 May 2020 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>خلاصه تاریخ مردمان هزاره Blog</title>
+            <url>https://mrahmani71.github.io//img/favicon.ico</url>
+            <link>https://mrahmani71.github.io//blog</link>
+        </image>
+        <copyright>حق نشر © 2020 محمد رحمانی</copyright>
+        <item>
+            <title><![CDATA[نگارش ۱.۵]]></title>
+            <link>https://mrahmani71.github.io//blog/2020/05/26/new-version-1.5.html</link>
+            <guid>https://mrahmani71.github.io//blog/2020/05/26/new-version-1.5.html</guid>
+            <pubDate>Tue, 26 May 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>تغییرات ماه مه ۲۰۲۰ اردیبهشت/خرداد ۱۳۹۹</p> <p>درود به همه عزیزان. پس از زمانی دوباره فرصت شد تا بتوانم به تکمیل کتاب بپردازم. در ابتدا پوسته کتاب را به‌طور کامل تغییر دادم و تلاش دارم کم کم صفحات دیگر را کامل کنم. فهرست زیر، تغییراتی است که در ماه مه (اردی...</p>]]></description>
+        </item>
+    </channel>
+</rss>
