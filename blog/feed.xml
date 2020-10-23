@@ -4,7 +4,7 @@
         <title>خلاصه تاریخ مردم هزاره Blog</title>
         <link>https://mrahmani71.github.io//blog</link>
         <description>The best place to stay up-to-date with the latest خلاصه تاریخ مردم هزاره news and events.</description>
-        <lastBuildDate>Tue, 26 May 2020 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2020 06:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,11 +14,18 @@
         </image>
         <copyright>حق نشر © 2020 محمد رحمانی</copyright>
         <item>
+            <title><![CDATA[نگارش ۱.۱۰]]></title>
+            <link>https://mrahmani71.github.io//blog/2020/10/23/new-version-1.10.html</link>
+            <guid>https://mrahmani71.github.io//blog/2020/10/23/new-version-1.10.html</guid>
+            <pubDate>Fri, 23 Oct 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>تغییرات ماه اکتبر ۲۰۲۰</p> <p>مهر/آبان ۱۳۹۹</p> <p>درود دوباره خدمت همه دوستان عزیز، پس از چندین ماه چند روزی حوصله کردم برخی اصلاحاتی که مدنظرم بود را بالاخره انجام بدهم. پس از مدتی که رویدادها را در گاه‌شمار اضافه می‌کردم، متوجه شدم که بسیاری از این رویدادها نیا...</p>]]></description>
+        </item>
+        <item>
             <title><![CDATA[نگارش ۱.۵]]></title>
             <link>https://mrahmani71.github.io//blog/2020/05/26/new-version-1.5.html</link>
             <guid>https://mrahmani71.github.io//blog/2020/05/26/new-version-1.5.html</guid>
             <pubDate>Tue, 26 May 2020 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>تغییرات ماه مه ۲۰۲۰ اردیبهشت/خرداد ۱۳۹۹</p> <p>درود به همه عزیزان. پس از زمانی دوباره فرصت شد تا بتوانم به تکمیل کتاب بپردازم. در ابتدا پوسته کتاب را به‌طور کامل تغییر دادم و تلاش دارم کم کم صفحات دیگر را کامل کنم. فهرست زیر، تغییراتی است که در ماه مه (اردی...</p>]]></description>
+            <description><![CDATA[<p>تغییرات ماه مه ۲۰۲۰</p> <p>اردیبهشت/خرداد ۱۳۹۹</p> <p>درود به همه عزیزان. پس از زمانی دوباره فرصت شد تا بتوانم به تکمیل کتاب بپردازم. در ابتدا پوسته کتاب را به‌طور کامل تغییر دادم و تلاش دارم کم کم صفحات دیگر را کامل کنم. فهرست زیر، تغییراتی است که در ماه مه (اردی...</p>]]></description>
         </item>
     </channel>
 </rss>

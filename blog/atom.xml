@@ -2,18 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mrahmani71.github.io//blog</id>
     <title>خلاصه تاریخ مردم هزاره Blog</title>
-    <updated>2020-05-26T06:00:00.000Z</updated>
+    <updated>2020-10-23T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mrahmani71.github.io//blog"/>
     <subtitle>The best place to stay up-to-date with the latest خلاصه تاریخ مردم هزاره news and events.</subtitle>
     <logo>https://mrahmani71.github.io//img/favicon.ico</logo>
     <rights>حق نشر © 2020 محمد رحمانی</rights>
     <entry>
+        <title type="html"><![CDATA[نگارش ۱.۱۰]]></title>
+        <id>https://mrahmani71.github.io//blog/2020/10/23/new-version-1.10.html</id>
+        <link href="https://mrahmani71.github.io//blog/2020/10/23/new-version-1.10.html"/>
+        <updated>2020-10-23T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>تغییرات ماه اکتبر ۲۰۲۰</p> <p>مهر/آبان ۱۳۹۹</p> <p>درود دوباره خدمت همه دوستان عزیز، پس از چندین ماه چند روزی حوصله کردم برخی اصلاحاتی که مدنظرم بود را بالاخره انجام بدهم. پس از مدتی که رویدادها را در گاه‌شمار اضافه می‌کردم، متوجه شدم که بسیاری از این رویدادها نیا...</p>]]></summary>
+        <author>
+            <name>محمد رحمانی</name>
+            <uri>http://twitter.com/mjawad71</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[نگارش ۱.۵]]></title>
         <id>https://mrahmani71.github.io//blog/2020/05/26/new-version-1.5.html</id>
         <link href="https://mrahmani71.github.io//blog/2020/05/26/new-version-1.5.html"/>
         <updated>2020-05-26T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>تغییرات ماه مه ۲۰۲۰ اردیبهشت/خرداد ۱۳۹۹</p> <p>درود به همه عزیزان. پس از زمانی دوباره فرصت شد تا بتوانم به تکمیل کتاب بپردازم. در ابتدا پوسته کتاب را به‌طور کامل تغییر دادم و تلاش دارم کم کم صفحات دیگر را کامل کنم. فهرست زیر، تغییراتی است که در ماه مه (اردی...</p>]]></summary>
+        <summary type="html"><![CDATA[<p>تغییرات ماه مه ۲۰۲۰</p> <p>اردیبهشت/خرداد ۱۳۹۹</p> <p>درود به همه عزیزان. پس از زمانی دوباره فرصت شد تا بتوانم به تکمیل کتاب بپردازم. در ابتدا پوسته کتاب را به‌طور کامل تغییر دادم و تلاش دارم کم کم صفحات دیگر را کامل کنم. فهرست زیر، تغییراتی است که در ماه مه (اردی...</p>]]></summary>
         <author>
             <name>محمد رحمانی</name>
             <uri>http://twitter.com/mjawad71</uri>
