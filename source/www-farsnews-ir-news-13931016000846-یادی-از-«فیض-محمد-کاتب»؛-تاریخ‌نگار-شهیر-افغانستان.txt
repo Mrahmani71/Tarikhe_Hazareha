@@ -1,0 +1,1814 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="content-language" content="fa" />
+    <title>یادی از «فیض محمد کاتب»؛ تاریخ‌نگار شهیر افغانستان | خبرگزاری فارس</title>
+    
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="content-language" content="fa" />
+    <meta name="dc.publisher" content="خبرگزاری فارس  | Fars News Agency" />
+    <meta name="dc.identifier" content="https://www.farsnews.com" />
+    <meta name="copyright" content="©2020 Fars News Agency (www.farsnews.com)" />
+    <meta itemprop="name" content="یادی از «فیض محمد کاتب»؛ تاریخ‌نگار شهیر افغانستان" />
+    <meta itemprop="description" content="16 دی امسال برابر با هشتاد و چهارمین سال رحلت «ملا فیض محمد کاتب هزاره» از تاریخ‌نگاران برجسته افغانستان است که در سال 1309 خورشیدی در کابل درگذشت." />
+    <meta itemprop="image" content="https://media.farsnews.ir/Uploaded/Files/Images/1391/10/16/13911016000046_PhotoA.jpg" />
+    <link rel="alternate" hreflang="fa" href="https://www.farsnews.ir/news/13931016000846/یادی-از-فیض-محمد-کاتب-تاریخ‌نگار-شهیر-افغانستان" />
+
+    <link rel="canonical" href="https://www.farsnews.ir/news/13931016000846/یادی-از-فیض-محمد-کاتب-تاریخ‌نگار-شهیر-افغانستان">
+    <meta property="og:title" content="خبرگزاری فارس - یادی از «فیض محمد کاتب»؛ تاریخ‌نگار شهیر افغانستان" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.farsnews.ir/news/13931016000846/یادی-از-فیض-محمد-کاتب-تاریخ‌نگار-شهیر-افغانستان" />
+    <meta property="og:description" content="16 دی امسال برابر با هشتاد و چهارمین سال رحلت «ملا فیض محمد کاتب هزاره» از تاریخ‌نگاران برجسته افغانستان است که در سال 1309 خورشیدی در کابل درگذشت." />
+    <meta property="og:site_name" content="خبرگزاری فارس" />
+    <meta property="og:locale" content="fa_IR" />
+    <meta property="og:article:author" content="خبرگزاری فارس" />
+    <meta property="og:article:section" content="بین الملل - " />
+    <meta property="og:image" content="https://media.farsnews.ir/Uploaded/Files/Images/1391/10/16/13911016000046_PhotoA.jpg" />
+
+    <meta name="keywords" content="افغانستان، کاتب، تاریخ نگار مشهور" />
+    <meta name="description" content="16 دی امسال برابر با هشتاد و چهارمین سال رحلت «ملا فیض محمد کاتب هزاره» از تاریخ‌نگاران برجسته افغانستان است که در سال 1309 خورشیدی در کابل درگذشت." />
+    <meta name="dc.Date" scheme="ISO8601" content="1/6/2015 2:08:00 PM" />
+    <meta name="dc.identifier" content="https://www.farsnews.ir/news/13931016000846/یادی-از-فیض-محمد-کاتب-تاریخ‌نگار-شهیر-افغانستان" />
+    <meta name="Fna.oid" content="13931016000846" />
+    <link rel="amphtml" href="https://www.farsnews.ir/amp/13931016000846" />
+    <script type="application/ld+json">
+        {"@id":"https://www.farsnews.ir/news/13931016000846/یادی-از-فیض-محمد-کاتب-تاریخ‌نگار-شهیر-افغانستان","@type":"NewsArticle","@context":"http://schema.org","headline":"","datePublished":"1/6/2015 2:08:00 PM","dateModified":"1/6/2015 2:08:00 PM","author":{"@type":"Organization","name":"خبرگزاری فارس | Fars News Agency","url":"https://www.farsnews.com"},"publisher":{"@type":"Organization","name":"خبرگزاری فارس | Fars News Agency","url":"https://www.farsnews.com","description":"تازه ترین اخبار ورزشی، حوادث، سیاسی و اقتصادی ایران، افغانستان، آسیای مرکزی و سایر مناطق جهان را در اینجا بخوانید. می توانید کلیپ های صوتی و تصویری را از خبرگزاری فارس دریافت کنید","logo":{"type":"ImageObject","width":"64","height":"45","url":"https://farsnews.com/images/social-logo.jpg"}},"thumbnailUrl":"https://media.farsnews.ir/Uploaded/Files/Images/1391/10/16/13911016000046_PhotoA.jpg","description":"16 دی امسال برابر با هشتاد و چهارمین سال رحلت «ملا فیض محمد کاتب هزاره» از تاریخ‌نگاران برجسته افغانستان است که در سال 1309 خورشیدی در کابل درگذشت.","url":"https://www.farsnews.ir/news/13931016000846/یادی-از-فیض-محمد-کاتب-تاریخ‌نگار-شهیر-افغانستان","image":"https://media.farsnews.ir/Uploaded/Files/Images/1391/10/16/13911016000046_PhotoA.jpg"}
+    </script>
+
+
+
+    <link href="/css/bootstrap.min.css" rel="stylesheet" />
+    
+    <link href="/css/newstext.min.css" rel="stylesheet" />
+
+
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+        _atrk_opts = { atrk_acct: "Hli5s1Fx9f207i", domain: "farsnews.com", dynamic: true };
+        (function () { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(as, s); })();
+    </script>
+    <noscript><img src="https://certify.alexametrics.com/atrk.gif?account=Hli5s1Fx9f207i" style="display:none" height="1" width="1" alt="" /></noscript>
+    <!-- End Alexa Certify Javascript -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131012460-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-131012460-1');
+    </script>
+
+    <!--najva Notification-->
+    <script type="text/javascript">(function () { var now = new Date(); var version = now.getFullYear().toString() + "0" + now.getMonth() + "0" + now.getDate() + "0" + now.getHours(); var head = document.getElementsByTagName("head")[0]; var link = document.createElement("link"); link.rel = "stylesheet"; link.href = "https://app.najva.com/static/css/local-messaging.css" + "?v=" + version; head.appendChild(link); var script = document.createElement("script"); script.type = "text/javascript"; script.async = true; script.src = "https://app.najva.com/static/js/scripts/farsnews481-1249292-4940eea8-c343-4e57-b65a-7d7a1d1b4bc0.js" + "?v=" + version; head.appendChild(script); })()</script>
+    <link rel="manifest" href="/manifest.json">
+
+</head>
+<body>
+
+    <header class="">
+
+        <div class="container px-0 position-relative d-flex justify-content-between align-items-center py-2">
+            <div class="logo-right d-flex position-relative">
+                <a class="w-100" href="/">
+                </a>
+            </div>
+
+            <div class="logo-right-small position-relative d-none">
+                <a class="w-100" href="/">
+                </a>
+            </div>
+
+            <nav class="man-menu-box mx-2 d-none d-lg-flex h-100 align-items-center">
+
+                    <ul class="main-menu d-flex align-items-center list-unstyled">
+                        <li data-id="0">
+                            <a class="d-none d-lg-inline" href="/">صفحه اصلی</a>
+                            <a class="d-inline d-lg-none mt-1" href="/"><span class="oi oi-home"></span></a>
+                            <div>
+                                <ul>
+                                    <li><a href="/">صفحه اصلی خبرگزاری فارس</a></li>
+                                    <li><a href="/allstories">تیتر اخبار</a></li>
+                                    <li><a href="/allstories/lead">تیتر و لید</a></li>
+                                    <li><a href="/allstories/photo">تیتر، لید و عکس</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/archive">آرشیو اخبار</a></li>
+                                    <li><a href="/photo/archive">آرشیو عکس</a></li>
+                                    <li><a href="/graphic/archive">آرشیو کاریکاتور و گرافیک</a></li>
+                                    <li><a href="/multimedia/archive">آرشیو فیلم</a></li>
+
+                                </ul>
+                            </div>
+                        </li>
+                        <li data-id="1" class="social">
+                            <a href="/social">اجتماعی</a>
+                            <div>
+                                <ul>
+                                    <li><a href="/social">صفحه اصلی گروه</a></li>
+                                    <li><a href="/social/education">آموزش و پرورش</a></li>
+                                    <li><a href="/social/public-health">بهداشت عمومی و تغذیه</a></li>
+                                    <li><a href="/social/medicine-spirituality">سلامت</a></li>
+                                    <li><a href="/social/legal-judicial">حقوقی و قضایی</a></li>
+                                    <li><a href="/social/police-events">انتظامی و حوادث</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/social/environment-tourism">محیط زیست و گردشگری</a></li>
+                                    <li><a href="/social/welfare">شهری</a></li>
+                                    <li><a href="/social/welfare-social-harm">رفاه و آسیب های اجتماعی</a></li>
+                                    <li><a href="/social/social-responsibility">مسئولیت های اجتماعی</a></li>
+                                    <li><a href="/social/power-groups">گروههای توان خواه</a></li>
+                                    <li><a href="/social/women-youth">زنان و جوانان</a></li>
+                                </ul>
+
+                            </div>
+                        </li>
+                        <li data-id="2">
+                            <a href="/economy">اقتصادی</a>
+                            <div>
+                                <ul>
+                                    <li><a href="/economy">صفحه اصلی گروه</a></li>
+                                    <li><a href="/economy/macroeconomics">اقتصاد کلان و بودجه</a></li>
+                                    <li><a href="/economy/occupation">تعاون و اشتغال</a></li>
+                                    <li><a href="/economy/stock">بورس</a></li>
+                                    <li><a href="/economy/banking">بیمه و بانک</a></li>
+                                    <li><a href="/economy/civil">راه و مسکن</a></li>
+                                    <li><a href="/economy/business">صنعت، تجارت، بازرگانی</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/economy/agriculture">کشاورزی و امور دام</a></li>
+                                    <li><a href="/economy/energy">نفت و انرژی</a></li>
+                                    <li><a href="/economy/world-economy">اقتصاد بین الملل</a></li>
+                                    <li><a href="/economy/economic-warfare">جنگ اقتصادی</a></li>
+                                    <li><a href="/economy/others">سایر حوزه ها</a></li>
+                                    <li><a href="/economy/companies-news">بازار</a></li>
+
+
+                                </ul>
+                            </div>
+                        </li>
+                        <li data-id="3">
+                            <a href="/world">بین الملل</a>
+                            <div>
+                                <ul>
+                                    <li><a href="/world">صفحه اصلی گروه</a></li>
+                                    <li><a href="/world/europe-amercia">آمریکا و اروپا</a></li>
+                                    <li><a href="/world/asia-pacific">شرق آسیا و اقیانوسیه</a></li>
+                                    <li><a href="/world/west-asia">غرب آسیا</a></li>
+                                    <li><a href="/world/africa">آفریقا</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/world/islamic-forces">محور مقاومت</a></li>
+                                    <li><a href="/world/iran">ایران در جهان</a></li>
+                                    <li><a href="/world/Analysis-International">تحلیل بین الملل</a></li>
+                                    <li><a href="/foreign-policy">سیاست خارجی</a></li>
+                                    <li><a href="/world/others">سایر حوزه ها</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li data-id="4">
+                            <a href="/politics">سیاسی</a>
+                            <div>
+                                <ul>
+                                    <li><a href="/politics">صفحه اصلی گروه</a></li>
+                                    <li><a href="/politics/leadership">امام و رهبری</a></li>
+                                    <li><a href="/politics/parties">احزاب و تشکلها</a></li>
+                                    <li><a href="/politics/defense">امنیتی و دفاعی</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/politics/government">دولت</a></li>
+                                    <li><a href="/politics/parliament">مجلس</a></li>
+                                    <li><a href="/politics/academic-formations">تشکل های دانشگاهی</a></li>
+                                    <li><a href="/politics/others">سایر حوزه ها</a></li>
+                                </ul>
+                            </div>
+
+                        </li>
+                        <li data-id="5" class="scientific">
+                            <a href="/scientific-academic">
+                                علمی
+                                <span class="title">
+                                    و دانشگاهی
+                                </span>
+                            </a>
+                            <div>
+                                <ul>
+                                    <li><a href="/scientific-academic">صفحه اصلی گروه</a></li>
+                                    <li><a href="/scientific-academic/education">آموزش</a></li>
+                                    <li><a href="/scientific-academic/research">پژوهش</a></li>
+                                    <li><a href="/scientific-academic/culture">صنفی فرهنگی</a></li>
+                                    <li><a href="/scientific-academic/it">ارتباطات و فن آوری اطلاعات</a></li>
+
+                                </ul>
+                                <ul>
+                                    <li><a href="/scientific-academic/iran-science">علم و فن آوری ایران</a></li>
+                                    <li><a href="/scientific-academic/world-science">علم و فن آوری جهان</a></li>
+                                    <li><a href="/scientific-academic/knowledge">اطلاعات عمومی و دانستنی ها</a></li>
+                                    <li><a href="/scientific-academic/others">سایر حوزه ها</a></li>
+
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li data-id="6" class="culture">
+                            <a href="/culture">فرهنگ</a>
+                            <div>
+                                <ul>
+                                    <li><a href="/culture">صفحه اصلی گروه</a></li>
+                                    <li><a href="/culture/general-culture">فرهنگ عمومی</a></li>
+                                    <li><a href="/culture/book">کتاب و ادبیات</a></li>
+                                    <li><a href="/culture/thought">اندیشه</a></li>
+                                    <li><a href="/culture/quran">قرآن و فعالیت های دینی</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/culture/mosque">مسجد و هیئت</a></li>
+                                    <li><a href="/culture/hajj-pilgrimage-waqf">حج و زیارت و وقف</a></li>
+                                    <li><a href="/culture/history">تاریخ</a></li>
+                                    <li><a href="/culture/others">سایر حوزه ها</a></li>
+                                </ul>
+
+                            </div>
+
+
+                        </li>
+
+                        <li data-id="12" class="arts-media">
+                            <a href="/arts-media">هنر و رسانه</a>
+                            <div>
+                                <ul>
+                                    <li><a href="/arts-media">صفحه اصلی گروه</a></li>
+                                    <li><a href="/arts-media/media">رسانه</a></li>
+                                    <li><a href="/arts-media/music">موسیقی و هنرهای تجسمی</a></li>
+                                    <li><a href="/arts-media/cinema-drama">سینما و تئاتر</a></li>
+                                    <li><a href="/arts-media/radio-tv">رادیو و تلویزیون</a></li>
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li data-id="7" class="sports">
+                            <a href="/sports">ورزشی</a>
+                            <div>
+                                <ul>
+                                    <li><a href="/sports">صفحه اصلی گروه</a></li>
+                                    <li><a href="/sports/football-iran">فوتبال ایران</a></li>
+                                    <li><a href="/sports/football-world">فوتبال جهان</a></li>
+                                    <li><a href="/sports/wrestling-powerlifting">کشتی و وزنه برداری</a></li>
+                                    <li><a href="/sports/martial-arts">ورزش های رزمی</a></li>
+                                    <li><a href="/sports/ballgames">توپ و تور</a></li>
+                                    <li><a href="/sports/women">ورزش بانوان</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/sports/world">ورزش بین الملل</a></li>
+                                    <li><a href="/sports/video">فیلم</a></li>
+                                    <li><a href="/sports/photo">عکس</a></li>
+                                    <li><a href="/widgets/leagues">جداول لیگ</a></li>
+                                    <li><a href="/widgets/liveresult">نتایج زنده</a></li>
+                                    <li><a href="/sports/others">سایر حوزه ها</a></li>
+                                </ul>
+
+                            </div>
+
+                        </li>
+
+                        <li data-id="8" class="province">
+                            <a href="/province">استانها</a>
+                            <div>
+                                <ul>
+                                    <li><a href="/province">صفحه اصلی گروه</a></li>
+                                    <li><a href="/azarbaijan-sharghi">آذربایجان شرقی</a></li>
+                                    <li><a href="/azarbaijan-gharbi">آذربایجان غربی</a></li>
+                                    <li><a href="/ardabil">اردبیل</a></li>
+                                    <li><a href="/isfahan">اصفهان</a></li>
+                                    <li><a href="/alborz">البرز</a></li>
+                                    <li><a href="/ilam">ایلام</a></li>
+                                    <li><a href="/bushehr">بوشهر</a></li>
+                                    <li><a href="/tehran">تهران</a></li>
+                                    <li><a href="/Chaharmahal-Bakhtiari">چهار محال و بختیاری</a></li>
+                                    <li><a href="/khorasan-jonubi">خراسان جنوبی</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/razavi">خراسان رضوی</a></li>
+                                    <li><a href="/khorasan-shomali">خراسان شمالی</a></li>
+                                    <li><a href="/khuzestan">خوزستان</a></li>
+                                    <li><a href="/zanjan">زنجان</a></li>
+                                    <li><a href="/semnan">سمنان</a></li>
+                                    <li><a href="/sistan-baluchestan">سیستان و بلوچستان</a></li>
+                                    <li><a href="/fars">فارس</a></li>
+                                    <li><a href="/qazvin">قزوین</a></li>
+                                    <li><a href="/qom">قم</a></li>
+                                    <li><a href="/kordestan">کردستان</a></li>
+                                    <li><a href="/kerman">کرمان</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/kermanshah">کرمانشاه</a></li>
+                                    <li><a href="/Kohgiluyeh-Boyerahmad">كهگیلویه و بویراحمد</a></li>
+                                    <li><a href="/golestan">گلستان</a></li>
+                                    <li><a href="/gilan">گیلان</a></li>
+                                    <li><a href="/lorestan">لرستان</a></li>
+                                    <li><a href="/mazandaran">مازندران</a></li>
+                                    <li><a href="/markazi">مرکزی</a></li>
+                                    <li><a href="/hormozgan/">هرمزگان</a></li>
+                                    <li><a href="/hamedan">همدان</a></li>
+                                    <li><a href="/yazd">یزد</a></li>
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li data-id="12" class="multimedia">
+                            <span>چند رسانه ای</span>
+                            <div>
+                                <ul>
+                                    <li><a href="/photo">صفحه اصلی عکس</a></li>
+                                    <li><a href="/photo/provinces">عکس استانها</a></li>
+                                    <li><a href="/photo/journalism">عکس خبری</a></li>
+                                    <li><a href="/photo/documentary">عکس مستند</a></li>
+                                    <li><a href="/photo/sports">عکس ورزشی</a></li>
+                                    <li><a href="/photo/received">عکس دریافتی</a></li>
+                                    <li><a href="/photo/day">عکس روز</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/graphic/cartoon">کاریکاتور</a></li>
+                                    <li><a href="/graphic">گرافیک</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/multimedia">صفحه اصلی فیلم</a></li>
+                                    <li><a href="https://live.farsnews.ir">پخش زنده</a></li>
+                                </ul>
+
+                            </div>
+
+                        </li>
+
+                        <li data-id="9" class="photo">
+                            <a class="d-none d-lg-inline" href="/photo">عکس</a>
+                            <a class="d-inline d-lg-none mt-1" href="/photo"><span class="oi oi-camera-slr"></span></a>
+                            <div>
+                                <ul>
+                                    <li><a href="/photo">صفحه اصلی عکس</a></li>
+                                    <li><a href="/photo/provinces">استانها</a></li>
+                                    <li><a href="/photo/journalism">خبری</a></li>
+                                    <li><a href="/photo/documentary">مستند</a></li>
+                                    <li><a href="/photo/sports">ورزشی</a></li>
+                                    <li><a href="/photo/received">دریافتی</a></li>
+                                    <li><a href="/photo/day">عکس روز</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/graphic/cartoon">کاریکاتور</a></li>
+                                    <li><a href="/graphic">گرافیک</a></li>
+                                </ul>
+                            </div>
+
+                        </li>
+
+                        <li data-id="10" class="video">
+                            <a class="d-none d-lg-inline" href="/multimedia">فیلم</a>
+                            <a class="d-inline d-lg-none mt-1" href="/multimedia"><span class="oi oi-video"></span></a>
+                            <div>
+                                <ul>
+                                    <li><a href="/multimedia">صفحه اصلی گروه</a></li>
+                                    <li><a href="https://live.farsnews.ir">پخش زنده</a></li>
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li data-id="11" class="special">
+                            <a href="/farsplus-magazine">فارس +</a>
+                            <div>
+                                <ul>
+                                    <li><a href="/farsplus-magazine">صفحه اصلی گروه</a></li>
+                                    <li><a href="/west-view-west">غرب از نگاه غرب</a></li>
+                                    <li><a href="/resistance">حماسه و مقاومت</a></li>
+                                    <li><a href="/good-news">خبر خوب</a></li>
+                                    <li><a href="/family">خانواده</a></li>
+                                </ul>
+                                <ul>
+                                    <li><a href="/viewpoint">دیدگاه</a></li>
+                                    <li><a href="/rumor">شبهه و شایعه</a></li>
+                                    <li><a href="/other-media">ديگر رسانه ها</a></li>
+                                    <li><a href="/recreation-exhilaration">تفریح و نشاط</a></li>
+
+                                </ul>
+                            </div>
+                        </li>
+
+
+                    </ul>
+            </nav>
+
+            <div class="left-box d-flex align-items-center">
+                <div class="desktop d-inline-block d-lg-none w-50 d-flex justify-content-start mx-2">
+                    <span class="oi oi-monitor ml-1"></span>
+                    <span class="text align-self-end">
+                        نسخه اصلی
+                    </span>
+                </div>
+
+                <div class="search-box mx-2 mt-1">
+                    <div class="expander">
+                        <span class="oi oi-magnifying-glass"></span>
+                        <span class="oi oi-x d-none"></span>
+                    </div>
+                    <div class="search-bar col-auto position-absolute">
+                        <form action="https://search.farsnews.ir" method="GET">
+                            <div class="input-group mb-2">
+                                <button type="submit">
+                                    <span class="oi oi-magnifying-glass"></span>
+                                </button>
+                                <input type="text" class="search form-control" name="q" placeholder="جستجو">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="dropdown lang mt-1 mx-1">
+                    <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+                    </button>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="http://af.farsnews.ir">افغانستان</a>
+                        <a class="dropdown-item" href="http://ar.farsnews.ir">العربیة</a>
+                        <a class="dropdown-item" href="http://en.farsnews.ir">English</a>
+                        <a class="dropdown-item" href="http://tr.farsnews.ir">Türkçe</a>
+                    </div>
+                </div>
+
+                <div class="menu-expander mx-2">
+                    <span class="oi oi-menu"></span>
+                    <span class="oi oi-x d-none"></span>
+                </div>
+
+            </div>
+
+            <div class="logo-left d-flex position-absolute">
+                <a class="w-100" href="/">
+                </a>
+            </div>
+
+            <div class="logo-left-small d-none position-absolute">
+                <a class="w-100" href="/">
+                </a>
+            </div>
+
+
+        </div>
+
+        <div class="nav-space">
+        </div>
+
+    </header>
+
+    <div class="nav-menu  links p-3 d-none">
+        <div class="container d-flex flex-column">
+            <div class="search my-3 d-none">
+                <form action="https://search.farsnews.ir" method="GET">
+                    <div class="input-group ltr">
+                        <div class="input-group-prepend">
+                            <button type="submit">
+                                <span class="oi oi-magnifying-glass ml-1"></span>
+                            </button>
+                        </div>
+
+                        <input type="text" class="form-control text-right py-0" placeholder="جستجو">
+                    </div>
+                </form>
+            </div>
+
+            <div class="social-box d-flex flex-column align-items-center mt-2 mb-4">
+                <div class="social">
+                    <ul class="list-unstyled">
+                        <li class="sorush"><a href="http://sapp.ir/farsna" target="_blank"></a></li>
+                        <li class="eita"><a href="https://eitaa.com/farsna" target="_blank"></a></li>
+                        <li class="igap"><a href="https://igap.net/farsna" target="_blank"></a></li>
+                        <li class="bale"><a href="http://ble.im/Farsna" target="_blank"></a></li>
+                        <li class="wispi"><a href="http://wispi.me/channel/farsna" target="_blank"></a></li>
+                        <li class="insta"><a href="https://instagram.com/fars_news" target="_blank"></a></li>
+                        <li class="twitter"><a href="https://twitter.com/FarsNews_Agency" target="_blank"></a></li>
+                        <li class="rss"><a href="/rsslinks" target="_blank"></a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="d-none d-md-block">
+                <div class="news-serv d-flex justify-content-between">
+    <div class="d-flex flex-column justify-content-between">
+        <div class="service mb-4">
+            <span><a href="/social">اجتماعی</a></span>
+            <ul>
+                <li><a href="/social/education">آموزش و پرورش</a></li>
+                <li><a href="/social/public-health">بهداشت عمومی و تغذیه</a></li>
+                <li><a href="/social/medicine-spirituality">سلامت</a></li>
+                <li><a href="/social/legal-judicial">حقوقی و قضایی</a></li>
+                <li><a href="/social/police-events">انتظامی و حوادث</a></li>
+                <li><a href="/social/environment-tourism">محیط زیست و گردشگری</a></li>
+                <li><a href="/social/welfare">شهری</a></li>
+                <li><a href="/social/welfare-social-harm">رفاه و آسیب های اجتماعی</a></li>
+                <li><a href="/social/social-responsibility">مسئولیت های اجتماعی</a></li>
+                <li><a href="/social/power-groups">گروههای توان خواه</a></li>
+                <li><a href="/social/women-youth">زنان و جوانان</a></li>
+            </ul>
+        </div>
+        <div class="service mb-4">
+            <span><a href="/culture">فرهنگ</a></span>
+            <ul>
+                <li><a href="/culture/general-culture">فرهنگ عمومی</a></li>
+                <li><a href="/culture/book">کتاب و ادبیات</a></li>
+                <li><a href="/culture/thought">اندیشه</a></li>
+                <li><a href="/culture/quran">قرآن و فعالیت های دینی</a></li>
+                <li><a href="/culture/mosque">مسجد و هیئت</a></li>
+                <li><a href="/culture/hajj-pilgrimage-waqf">حج و زیارت و وقف</a></li>
+                <li><a href="/culture/history">تاریخ</a></li>
+                <li><a href="/culture/others">سایر حوزه ها</a></li>
+            </ul>
+        </div>
+        
+        <div class="service">
+            <span><a href="/arts-media">هنر و رسانه</a></span>
+            <ul>
+                <li><a href="/arts-media/media">رسانه</a></li>
+                <li><a href="/arts-media/radio-tv">رادیو و تلویزیون</a></li>
+                <li><a href="/arts-media/cinema-drama">سینما و تئاتر</a></li>
+                <li><a href="/arts-media/music">موسیقی و هنرهای تجسمی</a></li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="d-flex flex-column justify-content-between">
+        <div class="service">
+            <span><a href="/economy">اقتصادی</a></span>
+            <ul>
+                <li><a href="/economy/macroeconomics">اقتصاد کلان و بودجه</a></li>
+                <li><a href="/economy/occupation">تعاون و اشتغال</a></li>
+                <li><a href="/economy/stock">بورس</a></li>
+                <li><a href="/economy/banking">بیمه و بانک</a></li>
+                <li><a href="/economy/civil">راه و مسکن</a></li>
+                <li><a href="/economy/business">صنعت، تجارت، بازرگانی</a></li>
+                <li><a href="/economy/agriculture">کشاورزی و امور دام</a></li>
+                <li><a href="/economy/energy">نفت و انرژی</a></li>
+                <li><a href="/economy/world-economy">اقتصاد بین الملل</a></li>
+                <li><a href="/economy/economic-warfare">جنگ اقتصادی</a></li>
+                <li><a href="/economy/others">سایر حوزه ها</a></li>
+                <li><a href="/economy/companies-news">بازار</a></li>
+            </ul>
+        </div>
+
+        <div class="service">
+            <span><a href="/multimedia">صوت و تصویر</a></span>
+            <ul>
+                <li><a href="https://live.farsnews.com" target="_blank">پخش زنده</a></li>
+            </ul>
+        </div>
+
+
+        <div class="service">
+            <span><a href="/scientific-academic">علمی و دانشگاهی</a></span>
+            <ul>
+                <li><a href="/scientific-academic/education">آموزش</a></li>
+                <li><a href="/scientific-academic/research">پژوهش</a></li>
+                <li><a href="/scientific-academic/culture">صنفی فرهنگی</a></li>
+                <li><a href="/scientific-academic/it">ارتباطات و فن آوری اطلاعات</a></li>
+                <li><a href="/scientific-academic/iran-science">علم و فن آوری ایران</a></li>
+                <li><a href="/scientific-academic/world-science">علم و فن آوری جهان</a></li>
+                <li><a href="/scientific-academic/knowledge">اطلاعات عمومی و دانستنی ها</a></li>
+                <li><a href="/scientific-academic/others">سایر حوزه ها</a></li>
+            </ul>
+        </div>
+
+
+
+    </div>
+
+    <div class="d-flex flex-column justify-content-between">
+        <div class="service">
+            <span><a href="/world">بین الملل</a></span>
+            <ul>
+                <li><a href="/world/europe-amercia">آمریکا و اروپا</a></li>
+                <li><a href="/world/asia-pacific">شرق آسیا و اقیانوسیه</a></li>
+                <li><a href="/world/west-asia">غرب آسیا</a></li>
+                <li><a href="/world/africa">آفریقا</a></li>
+                <li><a href="/world/islamic-forces">محور مقاومت</a></li>
+                <li><a href="/world/iran">ایران در جهان</a></li>
+                <li><a href="/world/Analysis-International">تحلیل بین الملل</a></li>
+                <li><a href="/foreign-policy">سیاست خارجی</a></li>
+                <li><a href="/world/others">سایر حوزه ها</a></li>
+            </ul>
+        </div>
+
+        <div class="service">
+            <span><a href="/politics">سیاسی</a></span>
+            <ul>
+                <li><a href="/politics/leadership">امام و رهبری</a></li>
+                <li><a href="/politics/parties">احزاب و تشکلها</a></li>
+                <li><a href="/politics/defense">امنیتی و دفاعی</a></li>
+                <li><a href="/politics/government">دولت</a></li>
+                <li><a href="/politics/parliament">مجلس</a></li>
+                <li><a href="/politics/academic-formations">تشکل های دانشگاهی</a></li>
+                <li><a href="/politics/others">سایر حوزه ها</a></li>
+            </ul>
+        </div>
+        
+        <div class="service">
+            <span>گرافیک و کاریکاتور</span>
+            <ul>
+                <li><a href="/graphic/cartoon">کاریکاتور</a></li>
+                <li><a href="/graphic">گرافیک</a></li>
+            </ul>
+        </div>
+
+
+    </div>
+
+    <div class="d-flex flex-column justify-content-between">
+        <div class="service">
+            <span><a href="/sports">ورزشی</a></span>
+            <ul>
+                <li><a href="/sports/football-iran">فوتبال ایران</a></li>
+                <li><a href="/sports/football-world">فوتبال جهان</a></li>
+                <li><a href="/sports/wrestling-powerlifting">کشتی و وزنه برداری</a></li>
+                <li><a href="/sports/martial-arts">ورزش های رزمی</a></li>
+                <li><a href="/sports/ballgames">توپ و تور</a></li>
+                <li><a href="/sports/women">ورزش بانوان</a></li>
+                <li><a href="/sports/world">ورزش بین الملل</a></li>
+                <li><a href="/sports/video">فیلم</a></li>
+                <li><a href="/sports/photo">عکس</a></li>
+                <li><a href="/widgets/leagues" target="_blank">جداول لیگ</a></li>
+                <li><a href="/widgets/liveresult" target="_blank">نتایج زنده</a></li>
+                <li><a href="/sports/others">سایر حوزه ها</a></li>
+            </ul>
+
+        </div>
+        <div class="service">
+            <span>
+                <a href="/farsplus-magazine">فارس +</a>
+            </span>
+            <ul>
+                <li><a href="/west-view-west">غرب از نگاه غرب</a></li>
+                <li><a href="/resistance">حماسه و مقاومت</a></li>
+                <li><a href="/good-news">خبر خوب</a></li>
+                <li><a href="/family">خانواده</a></li>
+                <li><a href="/viewpoint">دیدگاه</a></li>
+                <li><a href="/rumor">شبهه و شایعه</a></li>
+                <li><a href="/other-media">ديگر رسانه ها</a></li>
+                <li><a href="/recreation-exhilaration">تفریح و نشاط</a></li>
+            </ul>
+        </div>
+
+
+
+    </div>
+
+    <div class="d-flex flex-column justify-content-between">
+        <div class="service">
+            <span><a href="/photo">عکس</a></span>
+            <ul>
+                <li><a href="/photo/provinces">استانها</a></li>
+                <li><a href="/photo/journalism">خبری</a></li>
+                <li><a href="/photo/documentary">مستند</a></li>
+                <li><a href="/photo/sports">ورزشی</a></li>
+                <li><a href="/photo/received">دریافتی</a></li>
+                <li><a href="/photo/day">عکس روز</a></li>
+            </ul>
+        </div>
+
+
+
+
+        <div class="service">
+            <span>
+                <a href="/regional-offices">دفاتر منطقه ای</a>
+            </span>
+            <ul>
+                <li><a href="/regional-offices/middle-east">خاورمیانه</a></li>
+                <li><a href="/regional-offices/central-asia-russia">آسیا مرکزی و روسیه</a></li>
+                <li><a href="/regional-offices/north-africa">شمال آفریقا</a></li>
+                <li><a href="http://af.farsnews.com">افغانستان</a></li>
+                <li><a href="/regional-offices/pakistan">پاکستان</a></li>
+                <li><a href="/regional-offices/others">سایر حوزه ها</a></li>
+            </ul>
+        </div>
+
+
+        <div class="service">
+            <span>
+                آرشیو
+            </span>
+            <ul>
+                <li><a href="/archive">آرشیو اخبار</a></li>
+                <li><a href="/photo/archive">آرشیو عکس</a></li>
+                <li><a href="/graphic/archive">آرشیو کاریکاتور و گرافیک</a></li>
+                <li><a href="/multimedia/archive">آرشیو فیلم</a></li>
+            </ul>
+        </div>
+
+    </div>
+
+
+</div>
+
+            </div>
+            <div class="d-block d-md-none">
+                    <div class="accordions" id="accordion">
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse0">
+                                    صفحه اصلی
+                                </a>
+                            </div>
+                            <div id="collapse0" class="collapse " data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/">صفحه اصلی خبرگزاری فارس</a></li>
+                                        <li><a href="/allstories">تیتر اخبار</a></li>
+                                        <li><a href="/allstories/lead">تیتر و لید</a></li>
+                                        <li><a href="/allstories/photo">تیتر، لید و عکس</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li><a href="/archive">آرشیو اخبار</a></li>
+                                        <li><a href="/photo/archive">آرشیو عکس</a></li>
+                                        <li><a href="/graphic/archive">آرشیو کاریکاتور و گرافیک</a></li>
+                                        <li><a href="/multimedia/archive">آرشیو فیلم</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse1">
+                                    اجتماعی
+                                </a>
+                            </div>
+                            <div id="collapse1" class="collapse " data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/social">صفحه اصلی گروه</a></li>
+                                        <li><a href="/social/education">آموزش و پرورش</a></li>
+                                        <li><a href="/social/public-health">بهداشت عمومی و تغذیه</a></li>
+                                        <li><a href="/social/medicine-spirituality">سلامت</a></li>
+                                        <li><a href="/social/legal-judicial">حقوقی و قضایی</a></li>
+                                        <li><a href="/social/police-events">انتظامی و حوادث</a></li>
+                                        <li><a href="/social/environment-tourism">محیط زیست و گردشگری</a></li>
+                                        <li><a href="/social/welfare">شهری</a></li>
+                                        <li><a href="/social/welfare-social-harm">رفاه و آسیب های اجتماعی</a></li>
+                                        <li><a href="/social/social-responsibility">مسئولیت های اجتماعی</a></li>
+                                        <li><a href="/social/power-groups">گروههای توان خواه</a></li>
+                                        <li><a href="/social/women-youth">زنان و جوانان</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse2">
+                                    اقتصادی
+                                </a>
+                            </div>
+                            <div id="collapse2" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/economy">صفحه اصلی گروه</a></li>
+                                        <li><a href="/economy/macroeconomics">اقتصاد کلان و بودجه</a></li>
+                                        <li><a href="/economy/occupation">تعاون و اشتغال</a></li>
+                                        <li><a href="/economy/stock">بورس</a></li>
+                                        <li><a href="/economy/banking">بیمه و بانک</a></li>
+                                        <li><a href="/economy/civil">راه و مسکن</a></li>
+                                        <li><a href="/economy/business">صنعت، تجارت، بازرگانی</a></li>
+                                        <li><a href="/economy/agriculture">کشاورزی و امور دام</a></li>
+                                        <li><a href="/economy/energy">نفت و انرژی</a></li>
+                                        <li><a href="/economy/world-economy">اقتصاد بین الملل</a></li>
+                                        <li><a href="/economy/economic-warfare">جنگ اقتصادی</a></li>
+                                        <li><a href="/economy/others">سایر حوزه ها</a></li>
+                                        <li><a href="/economy/companies-news">بازار</a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse3">
+                                    بین الملل
+                                </a>
+                            </div>
+                            <div id="collapse3" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/world">صفحه اصلی گروه</a></li>
+                                        <li><a href="/world/europe-amercia">آمریکا و اروپا</a></li>
+                                        <li><a href="/world/asia-pacific">شرق آسیا و اقیانوسیه</a></li>
+                                        <li><a href="/world/west-asia">غرب آسیا</a></li>
+                                        <li><a href="/world/africa">آفریقا</a></li>
+                                        <li><a href="/world/islamic-forces">محور مقاومت</a></li>
+                                        <li><a href="/world/iran">ایران در جهان</a></li>
+                                        <li><a href="/world/Analysis-International">تحلیل بین الملل</a></li>
+                                        <li><a href="/foreign-policy">سیاست خارجی</a></li>
+                                        <li><a href="/world/others">سایر حوزه ها</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse4">
+                                    ورزشی
+                                </a>
+                            </div>
+                            <div id="collapse4" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/sports">صفحه اصلی گروه</a></li>
+                                        <li><a href="/sports/football-iran">فوتبال ایران</a></li>
+                                        <li><a href="/sports/football-world">فوتبال جهان</a></li>
+                                        <li><a href="/sports/wrestling-powerlifting">کشتی و وزنه برداری</a></li>
+                                        <li><a href="/sports/martial-arts">ورزش های رزمی</a></li>
+                                        <li><a href="/sports/ballgames">توپ و تور</a></li>
+                                        <li><a href="/sports/women">ورزش بانوان</a></li>
+                                        <li><a href="/sports/world">ورزش بین الملل</a></li>
+                                        <li><a href="/sports/video">فیلم</a></li>
+                                        <li><a href="/sports/photo">عکس</a></li>
+                                        <li><a href="/widgets/leagues" target="_blank">جداول لیگ</a></li>
+                                        <li><a href="/widgets/liveresult" target="_blank">نتایج زنده</a></li>
+                                        <li><a href="/sports/others">سایر حوزه ها</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse5">
+                                    سیاسی
+                                </a>
+                            </div>
+                            <div id="collapse5" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/politics">صفحه اصلی گروه</a></li>
+                                        <li><a href="/politics/leadership">امام و رهبری</a></li>
+                                        <li><a href="/politics/parties">احزاب و تشکلها</a></li>
+                                        <li><a href="/politics/defense">امنیتی و دفاعی</a></li>
+                                        <li><a href="/politics/government">دولت</a></li>
+                                        <li><a href="/politics/parliament">مجلس</a></li>
+                                        <li><a href="/politics/academic-formations">تشکل های دانشگاهی</a></li>
+                                        <li><a href="/politics/others">سایر حوزه ها</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse7">
+                                    صوت و تصویر
+                                </a>
+                            </div>
+                            <div id="collapse7" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/multimedia">صفحه اصلی گروه</a></li>
+                                        <li><a href="https://live.farsnews.ir">پخش زنده</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse8">
+                                    فرهنگ
+                                </a>
+                            </div>
+                            <div id="collapse8" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/culture">صفحه اصلی گروه</a></li>
+                                        <li><a href="/culture/general-culture">فرهنگ عمومی</a></li>
+                                        <li><a href="/culture/book">کتاب و ادبیات</a></li>
+                                        <li><a href="/culture/thought">اندیشه</a></li>
+                                        <li><a href="/culture/quran">قرآن و فعالیت های دینی</a></li>
+                                        <li><a href="/culture/mosque">مسجد و هیئت</a></li>
+                                        <li><a href="/culture/hajj-pilgrimage-waqf">حج و زیارت و وقف</a></li>
+                                        <li><a href="/culture/history">تاریخ</a></li>
+                                        <li><a href="/culture/others">سایر حوزه ها</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse16">
+                                    هنر و رسانه
+                                </a>
+                            </div>
+                            <div id="collapse16" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/arts-media">صفحه اصلی گروه</a></li>
+                                        <li><a href="/arts-media/media">رسانه</a></li>
+                                        <li><a href="/arts-media/Radio-tv">رادیو و تلویزیون</a></li>
+                                        <li><a href="/arts-media/cinema-drama">سینما و تئاتر</a></li>
+                                        <li><a href="/arts-media/music">موسیقی و هنرهای تجسمی</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse9">
+                                    دفاتر منطقه ای
+                                </a>
+                            </div>
+                            <div id="collapse9" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/regional-offices/middle-east">خاورمیانه</a></li>
+                                        <li><a href="/regional-offices/central-asia-russia">آسیا مرکزی و روسیه</a></li>
+                                        <li><a href="/regional-offices/north-africa">شمال آفریقا</a></li>
+                                        <li><a href="http://af.farsnews.ir">افغانستان</a></li>
+                                        <li><a href="/regional-offices/pakistan">پاکستان</a></li>
+                                        <li><a href="/regional-offices/others">سایر حوزه ها</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse10">
+                                    علمی و دانشگاهی
+                                </a>
+                            </div>
+                            <div id="collapse10" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/scientific-academic">صفحه اصلی گروه</a></li>
+                                        <li><a href="/scientific-academic/education">آموزش</a></li>
+                                        <li><a href="/scientific-academic/research">پژوهش</a></li>
+                                        <li><a href="/scientific-academic/culture">صنفی فرهنگی</a></li>
+                                        <li><a href="/scientific-academic/it">ارتباطات و فن آوری اطلاعات</a></li>
+                                        <li><a href="/scientific-academic/iran-science">علم و فن آوری ایران</a></li>
+                                        <li><a href="/scientific-academic/world-science">علم و فن آوری جهان</a></li>
+                                        <li><a href="/scientific-academic/knowledge">اطلاعات عمومی و دانستنی ها</a></li>
+                                        <li><a href="/scientific-academic/others">سایر حوزه ها</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse12">
+                                    استانها
+                                </a>
+                            </div>
+                            <div id="collapse12" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/province">صفحه اصلی گروه</a></li>
+                                    </ul>
+                                    <di class="d-flex flex-wrap">
+                                        <ul>
+                                            <li><a href="/azarbaijan-sharghi">آذربایجان شرقی</a></li>
+                                            <li><a href="/azarbaijan-gharbi">آذربایجان غربی</a></li>
+                                            <li><a href="/ardabil">اردبیل</a></li>
+                                            <li><a href="/isfahan">اصفهان</a></li>
+                                            <li><a href="/alborz">البرز</a></li>
+                                            <li><a href="/ilam">ایلام</a></li>
+                                            <li><a href="/bushehr">بوشهر</a></li>
+                                            <li><a href="/tehran">تهران</a></li>
+                                            <li><a href="/Chaharmahal-Bakhtiari">چهار محال و بختیاری</a></li>
+                                            <li><a href="/khorasan-jonubi">خراسان جنوبی</a></li>
+                                            <li><a href="/razavi">خراسان رضوی</a></li>
+                                            <li><a href="/khorasan-shomali">خراسان شمالی</a></li>
+                                            <li><a href="/khuzestan">خوزستان</a></li>
+                                            <li><a href="/zanjan">زنجان</a></li>
+                                            <li><a href="/semnan">سمنان</a></li>
+                                            <li><a href="/sistan-baluchestan">سیستان و بلوچستان</a></li>
+                                        </ul>
+                                        <ul class="mr-3">
+                                            <li><a href="/fars">فارس</a></li>
+                                            <li><a href="/qazvin">قزوین</a></li>
+                                            <li><a href="/qom">قم</a></li>
+                                            <li><a href="/kordestan">کردستان</a></li>
+                                            <li><a href="/kerman">کرمان</a></li>
+                                            <li><a href="/kermanshah">کرمانشاه</a></li>
+                                            <li><a href="/Kohgiluyeh-Boyerahmad">كهگیلویه و بویراحمد</a></li>
+                                            <li><a href="/golestan">گلستان</a></li>
+                                            <li><a href="/gilan">گیلان</a></li>
+                                            <li><a href="/lorestan">لرستان</a></li>
+                                            <li><a href="/mazandaran">مازندران</a></li>
+                                            <li><a href="/markazi">مرکزی</a></li>
+                                            <li><a href="/hormozgan/">هرمزگان</a></li>
+                                            <li><a href="/hamedan">همدان</a></li>
+                                            <li><a href="/yazd">یزد</a></li>
+                                        </ul>
+
+                                    </di>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse13">
+                                    عکس
+                                </a>
+                            </div>
+                            <div id="collapse13" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/photo">صفحه اصلی گروه</a></li>
+                                        <li><a href="/photo/provinces">استانها</a></li>
+                                        <li><a href="/photo/journalism">خبری</a></li>
+                                        <li><a href="/photo/documentary">مستند</a></li>
+                                        <li><a href="/photo/sports">ورزشی</a></li>
+                                        <li><a href="/photo/received">دریافتی</a></li>
+                                        <li><a href="/photo/day">عکس روز</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse14">
+                                    گرافیک و کاریکاتور
+                                </a>
+                            </div>
+                            <div id="collapse14" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/graphic/cartoon">کاریکاتور</a></li>
+                                        <li><a href="/graphic">گرافیک</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card mb-5">
+                            <div class="card-header">
+                                <a class="card-link w-100 text-right float-right" data-toggle="collapse" href="#collapse15">
+                                    فارس +
+                                </a>
+                            </div>
+                            <div id="collapse15" class="collapse" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul>
+                                        <li><a href="/west-view-west">غرب از نگاه غرب</a></li>
+                                        <li><a href="/resistance">حماسه و مقاومت</a></li>
+                                        <li><a href="/good-news">خبر خوب</a></li>
+                                        <li><a href="/family">خانواده</a></li>
+                                        <li><a href="/viewpoint">دیدگاه</a></li>
+                                        <li><a href="/rumor">شبهه و شایعه</a></li>
+                                        <li><a href="/other-media">ديگر رسانه ها</a></li>
+                                        <li><a href="/recreation-exhilaration">تفریح و نشاط</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="h-100">
+                        </div>
+
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-content  position-relative">
+        <main>
+            <div class="container position-relative">
+                <span class="date position-absolute">يکشنبه ۱۰ فروردین ۱۳۹۹ - ۰۴:۱۷</span>
+            </div>
+
+            
+
+
+
+<div class="container pt-4">
+    <div class="row">
+        <div class="col-12 col-lg-8 d-flex pr-3 pr-sm-0 pl-sm-0">
+            <div class="news-box w-100">
+                <div class="nt-frame">
+                    <div class="d-flex w-100 flex-column-reverse flex-sm-row">
+                        <div class="w-100">
+                            <div class="header py-2 mb-4 d-flex flex-wrap justify-content-between align-items-center text-right px-2 border-bottom">
+                                <div class="category-name d-flex justify-content-center">
+                                    <span>
+                                        <a href="/world" target="_blank">
+                                            بین الملل
+                                        </a>
+                                    </span>
+                                </div>
+
+                                <div class="publish-time d-flex justify-content-center">
+                                    <span>۱۴:۰۸</span>
+                                    <span>&nbsp;-&nbsp;</span>
+                                    <span>۱۳۹۳/۱۰/۱۶</span>
+                                </div>
+
+
+                                <div class="print-surl d-flex align-items-center justify-content-center">
+                                    <div class="print ml-2">
+                                        <a href="/printnews/13931016000846" target="_blank">
+                                            <span class="oi oi-print"></span>
+                                        </a>
+                                    </div>
+                                    <div class="short-url position-relative">
+                                        <span class="oi oi-link-intact mr-1"></span>
+                                        <div class="position-absolute justify-content-between d-none">
+                                            <button class="btn btn-link btn-copy p-0" data-clipboard-target="#surl" title="کپی" data-toggle="tooltip" data-placement="right">
+                                                <span class="oi oi-clipboard"></span>
+                                            </button>
+                                            <span id="surl">http://fna.ir/</span>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="cmnt-other d-flex flex-wrap align-items-center justify-content-center">
+                                    <div class="cmnt-count ml-3 d-flex align-items-center ml-4">
+                                        <a class="d-flex align-items-center" href="#show-comments">
+                                            <span class="oi oi-comment-square ml-1"></span>
+                                            <span class="num">&#x6F0;</span>
+                                        </a>
+                                    </div>
+                                    <div class="font-size d-flex align-items-center">
+                                        <span class="plus-minus ml-2"><span class="oi oi-plus"></span></span>
+                                        <span class="oi oi-pencil"></span>
+                                        <span class="plus-minus mr-2"><span class="oi oi-minus"></span></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="news-data d-flex flex-column text-right">
+                                <div class="top">
+                                    <span class="headline d-block mb-1"></span>
+                                    <span class="title mb-2 d-block text-justify">یادی از «فیض محمد کاتب»؛ تاریخ‌نگار شهیر افغانستان</span>
+                                    <p class="lead p-2 text-justify">
+                                        16 دی امسال برابر با هشتاد و چهارمین سال رحلت «ملا فیض محمد کاتب هزاره» از تاریخ‌نگاران برجسته افغانستان است که در سال 1309 خورشیدی در کابل درگذشت.
+                                    </p>
+                                        <img class="w-100" src="https://media.farsnews.ir/Uploaded/Files/Images/1391/10/16/13911016000046_PhotoA.jpg" alt="یادی از «فیض محمد کاتب»؛ تاریخ‌نگار شهیر افغانستان">
+                                </div>
+                            </div>
+                            <div class="social-share-mob d-block d-lg-none">
+                                <ul class="d-flex flex-wrap justify-content-center w-100 mt-3 ltr">
+
+                                    <li class="whatsapp" share-id="1">
+                                        <a data-toggle="tooltip" title="اشتراک در واتس اپ" href="whatsapp://send?text=http://www.farsnews.ir/news/13931016000846/%DB%8C%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B2-%D9%81%DB%8C%D8%B6-%D9%85%D8%AD%D9%85%D8%AF-%DA%A9%D8%A7%D8%AA%D8%A8-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1-%D8%B4%D9%87%DB%8C%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86" data-action="share/whatsapp/share" target="_blank"></a>
+                                    </li>
+
+                                    <li class="gmail" share-id="2">
+                                        <a data-toggle="tooltip" title="اشتراک در جی میل" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&body=http://www.farsnews.ir/news/13931016000846/%DB%8C%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B2-%D9%81%DB%8C%D8%B6-%D9%85%D8%AD%D9%85%D8%AF-%DA%A9%D8%A7%D8%AA%D8%A8-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1-%D8%B4%D9%87%DB%8C%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86" target="_blank"></a>
+                                    </li>
+
+                                    <li class="telegram" share-id="3">
+                                        <a data-toggle="tooltip" title="اشتراک در تلگرام" href="https://t.me/share/url?url=http://www.farsnews.ir/news/13931016000846/%DB%8C%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B2-%D9%81%DB%8C%D8%B6-%D9%85%D8%AD%D9%85%D8%AF-%DA%A9%D8%A7%D8%AA%D8%A8-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1-%D8%B4%D9%87%DB%8C%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86" target="_blank"></a>
+                                    </li>
+
+                                    <li class="twitter" share-id="4">
+                                        <a data-toggle="tooltip" title="اشتراک در توییتر" href="https://twitter.com/share?url=http://www.farsnews.ir/news/13931016000846/%DB%8C%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B2-%D9%81%DB%8C%D8%B6-%D9%85%D8%AD%D9%85%D8%AF-%DA%A9%D8%A7%D8%AA%D8%A8-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1-%D8%B4%D9%87%DB%8C%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86" target="_blank"></a>
+                                    </li>
+                                    <li class="fb" share-id="5">
+                                        <a data-toggle="tooltip" title="اشتراک در فیسبوک" href="http://www.facebook.com/sharer.php?u=http://www.farsnews.ir/news/13931016000846/%DB%8C%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B2-%D9%81%DB%8C%D8%B6-%D9%85%D8%AD%D9%85%D8%AF-%DA%A9%D8%A7%D8%AA%D8%A8-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1-%D8%B4%D9%87%DB%8C%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86" target="_blank"></a>
+                                    </li>
+
+                                </ul>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <div class="nt-body text-right mt-4">
+                        <p class="rtejustify">به گزارش خبرنگار دفتر منطقه&zwnj;ای <a href="http://www.farsnews.com"><a href="http://www.farsnews.com">خبرگزاری فارس</a></a>، 16 دی امسال برابر با هشتاد و چهارمین سال درگذشت &laquo;ملا فیض محمد کاتب هزاره&raquo; از تاریخ نگاران برجسته افغانستان&nbsp;است که در سال 1309 خورشیدی در کابل درگذشت.</p>
+
+<p class="rtejustify">فیض محمد کاتب هزاره از برجسته&zwnj;ترین مورخان افغانستان است که آثار فراونی در حوزه تاریخ&zwnj;نگاری از وی بر جای مانده است.</p>
+
+<p class="rtejustify">&laquo;سراج التواریخ&raquo; مهم&zwnj;ترین کتاب تاریخ افغانستان و فیض محمد کاتب می&zwnj;باشد که تاریخ 2 قرن اخیر افغانستان را با جزئیات شرح داده است.</p>
+
+<p class="rtejustify">کتاب سراج التواریخ در 5 جلد نوشته شده که تاکنون 4 جلد آن در ایران و افغانستان منتشر شده است.</p>
+
+<p class="rtejustify">منابع نویسنده در سراج التواریخ به خصوص جلد اول و دوم به کتب معتبر و نقل قول اشخاص خبره متعلق بوده و نگاهی هم به اسناد آرشیو دولت افغانستان که در اختیار وی قرار داشته شده است و استفاده از اسناد آرشیوی در جلد سوم بیشتر از 2 جلد اول است.</p>
+
+<p class="rtejustify"><strong>***زندگی نامه فیض محمد کاتب</strong></p>
+
+<p class="rtejustify">فیض محمد کاتب در سال 1279 قمری در روستای &laquo;زرد سنگ&raquo; منطقه &laquo;قره باغ&raquo; ولایت &laquo;غزنی&raquo; به دنیا آمد و تحصیلات ابتدایی را به شیوه سنتی در مکتب&zwnj;خانه&zwnj;های محل تولدش فرا گرفت.</p>
+
+<p class="rtejustify">به دنبال جنگ خونینی که میان اقوام افغانستان در این منطقه اتفاق افتاد، کاتب به همراه طایفه خود از زادگاهش آواره و در منطقه &laquo;ناهور&raquo; غزنی ساکن شد.</p>
+
+<p class="rtejustify">پدرش در ناهور غزنی به عنوان بزرگ قوم و طایفه &laquo;خواجه محمد&raquo; انتخاب شد.</p>
+
+<p class="rtejustify">کاتب برای ادامه تحصیل به &laquo;قندهار&raquo;، قم، نجف، هند و سوریه سفر کرد و علاوه بر دروس حوزوی، دیگر علوم متداول آن روزگار را نیز فرا گرفت و به زبان&zwnj;های عربی، انگلیسی و اردو نیز آشنایی پیدا کرد.</p>
+
+<p class="rtejustify">&nbsp;زندگانی کاتب که مدت هفتاد سال را در بر می&zwnj;گیرد، مصادف با دوره زمامداری پنج زمامدار افغانستان &laquo;امیر عبدالرحمان&raquo;، &laquo;امیر حبیب الله&raquo;، &laquo;شاه امان الله&raquo;، &laquo;حبیب الله کلکانی&raquo; و &laquo;محمد نادرشاه&raquo; است که خود رویدادهای این دوران را به چشم مشاهده کرده است.</p>
+
+<p class="rtejustify">پس از سقوط حکومت امان الله خان، حبیب الله کلکانی معروف به &laquo;بچه سقو&raquo; به قدرت رسید ولی هزاره&zwnj;های افغانستان در مناطق مرکزی این کشور همچنان به امان الله خان وفادار ماندند و حاضر به قبول حکومت کلکانی نشدند.</p>
+
+<p class="rtejustify">حبیب الله کلکانی هیئتی را از بزرگان هزاره به سرپرستی فیض محمد کاتب به هزاره&zwnj;جات(مناطق زندگی هزاره&zwnj;ها) فرستاد تا آنها را وادار به سازش در مقابل حکومت نمایند ولی این هیئت بدون نتیجه مشخصی به کابل برگشت و برخی به حکومت گزارش دادند فیض محمد نه تنها مردم را دعوت به سازش نکرده بلکه آنها را علیه حکومت تحریک به قیام نموده است.</p>
+
+<p class="rtejustify">به دنبال دریافت این گزارشات، حبیب الله کلکانی به فیض محمد بدگمان شد و او را مورد ضرب و شتم فراوان قرار داد و فیض محمد بر اثر این حادثه بیمار شد و مدتی بعد به ایران سفر کرد و پس از بازگشت از ایران در 16 دی سال 1309 درسن هفتاد سالگی در کابل وفات یافت و بالای نهر &laquo;چنداول&raquo; کابل به خاک سپرده شد.</p>
+
+<p class="rtejustify">فیض محمد کاتب اندیشه&zwnj;های مردمی داشت و چند مرتبه به همین خاطر به زندان افتاد.</p>
+
+<p class="rtejustify">در زمان امان الله خان، مدتی در وزارت آموزش و پرورش افغانستان به خصوص در دبیرستان &laquo;حبیبیه&raquo; که معروفترین مدرسه مدرن افغانستان در آن زمان بود خدمت کرد.</p>
+
+<p class="rtejustify">از آثار مهم دیگر کاتب می&zwnj;توان به کتاب 3 جلدی &laquo;تحفه الحیب&raquo; اشاره کرد که تا کنون منتشر نشده است.</p>
+
+<p class="rtejustify">&laquo;حکمای متقدمین&raquo;، &laquo;تاریخ عصر امانیه&raquo;، &laquo;فیضی از فیوضات&raquo;، &laquo;فقرات شرعیه&raquo;، &laquo;یادداشت&zwnj;ها&raquo; و &laquo;تذکره الانقلاب&raquo; برخی دیگر از کتاب&zwnj;های این تاریخ نگار افغانستان است که بسیاری از این آثار تاکنون منتشر نشده است.</p>
+
+<p class="rtejustify">انتهای پیام/</p>
+                    </div>
+
+                        <div class="tags mt-4 text-right d-flex flex-wrap">
+
+                                <a class="ml-2 mb-2" href="/tag/&#x627;&#x641;&#x63A;&#x627;&#x646;&#x633;&#x62A;&#x627;&#x646;" target="_blank">
+                                    &#x627;&#x641;&#x63A;&#x627;&#x646;&#x633;&#x62A;&#x627;&#x646;
+                                </a>
+                                <a class="ml-2 mb-2" href="/tag/&#x6A9;&#x627;&#x62A;&#x628;" target="_blank">
+                                    &#x6A9;&#x627;&#x62A;&#x628;
+                                </a>
+                                <a class="ml-2 mb-2" href="/tag/&#x62A;&#x627;&#x631;&#x6CC;&#x62E;-&#x646;&#x6AF;&#x627;&#x631;-&#x645;&#x634;&#x647;&#x648;&#x631;" target="_blank">
+                                    &#x62A;&#x627;&#x631;&#x6CC;&#x62E; &#x646;&#x6AF;&#x627;&#x631; &#x645;&#x634;&#x647;&#x648;&#x631;
+                                </a>
+
+                        </div>
+
+
+                </div>
+                <div class="d-flex flex-wrap mt-4">
+                    <div class="a2a_kit a2a_kit_size_32 a2a_default_style col-12 col-sm-6 d-none d-sm-flex align-items-center justify-content-center">
+                        <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+                        <a class="a2a_button_facebook"></a>
+                        <a class="a2a_button_twitter"></a>
+                        <a class="a2a_button_google_plus"></a>
+                        <a class="a2a_button_linkedin"></a>
+                        <a class="a2a_button_telegram"></a>
+                        <a class="a2a_button_email"></a>
+                        <a class="a2a_button_google_gmail"></a>
+                        <a class="a2a_button_yahoo_mail"></a>
+                    </div>
+                    <div class="share d-flex col-12 col-sm-6 pl-0">
+                        <div data-toggle="tooltip" title="کپی" class="short-url w-100 d-flex justify-content-center align-items-center p-3 btn-copy" data-clipboard-target="#surl2">
+                            <span id="surl2">http://fna.ir/</span>
+                            <span class="oi oi-link-intact mr-1"></span>
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+                <div class="w-100 my-2">
+                    <a href="https://www.eghamat24.com/?utm_source=farsnews&utm_medium=banner&utm_campaign=postpay&utm_content=%5Bdomain%5D" target="_blank">
+                        <img style="width: 100%; min-height: 50px;" src="/images/New1Eghamat24.gif" alt="اقامت 24" />
+                    </a>
+                </div>
+
+                <div class="w-100 my-2">
+                    <a href="https://7gardun.com/" target="_blank">
+                        <img style="width: 100%; min-height: 50px;" src="/images/HaftGardun.gif" alt="صنایع دستی" />
+                    </a>
+                </div>
+               
+                <div id="mediaad-cTtF" class="mt-3" style="width: 100%; float: right;"></div>
+
+
+                <div id="mediaad-A" class="mt-2"></div>
+                <div id="mediaad-zDGb" class="mt-2"></div>
+                <div id="mediaad-ePcG" class="mt-3"></div>
+
+                <div id="comments" class="comments d-flex flex-column mt-4">
+                    <div class="title px-2 py-1 d-flex align-items-center">
+                        <span class="oi oi-comment-square ml-5"></span>
+                        نظرات
+                    </div>
+                    <div class="desc d-flex flex-column my-2">
+                        <span>دیدگاه های ارسال شده توسط شما، پس از تایید توسط خبرگزاری فارس در وب سایت منتشر خواهد شد</span>
+                        <span>پیام هایی که حاوی تهمت یا افترا باشد منتشر نخواهد شد</span>
+                    </div>
+
+                    <div class="send-comment">
+    <form id="send-cmnt">
+        <div class="form-group w-100">
+            <textarea class="form-control" rows="5" id="Text" placeholder="نظرتان را بیان کنید" data-val="true" data-val-required="&#x644;&#x637;&#x641;&#x627; &#x646;&#x638;&#x631; &#x62E;&#x648;&#x62F; &#x631;&#x627; &#x62B;&#x628;&#x62A; &#x646;&#x645;&#x627;&#x6CC;&#x6CC;&#x62F;" name="Text">
+</textarea>
+        </div>
+        <div class="d-flex flex-wrap align-content-between">
+            <div class="input-group mb-3 col-12 col-sm-6 pr-0">
+                <div class="input-group-prepend">
+                    <span class="input-group-text"> <span class="oi oi-person"></span></span>
+                </div>
+                <input type="text" id="Name" class="form-control" placeholder="نام و نام خانوادگی" name="Name" value="">
+            </div>
+
+            <div class="input-group mb-3 col-12 col-sm-6 pl-0">
+                <div class="input-group-append">
+                    <span class="input-group-text"><span class="oi oi-envelope-closed"></span></span>
+                </div>
+                <input type="email" id="Email" class="form-control" placeholder="آدرس ایمیل" name="Email" value="">
+            </div>
+
+            <div class="col-md-6  mb-2 pr-0 d-flex align-items-center">
+                <input type="hidden" name="CaptchaRefId" id="CaptchaRefId" value="1YNR6N9FJNEOC8MZUW1OFUG820LVNVYT" />
+                <input type="text" class="col-4 form-control" name="CaptchaValue" id="CaptchaValue" autocomplete="off" autocorrect="off" placeholder="کد اعتبارسنجی" />
+                <img id="CaptchaImage" src="/Home/CaptchaImage/1YNR6N9FJNEOC8MZUW1OFUG820LVNVYT" alt="Captcha" />
+                <span class="oi oi-reload refresh-captcha mr-1"></span>
+            </div>
+            <div class="form-group w-100">
+                <div class="w-100 ml-2">
+                    <button type="button" class="btn btn-success btn-submit">ارسال</button>
+                </div>
+            </div>
+
+        </div>
+    </form>
+
+    <div>
+
+        <div class="cmnt-null alert alert-danger d-none">
+            لطفا پیام خود را وارد نمایید.
+        </div>
+
+        <div class="cmnt-ok alert alert-success d-none">
+            پیام شما با موفقیت ثبت گردید.
+        </div>
+        <div class="cmnt-wrong alert alert-danger d-none">
+            لطفا کد اعتبارسنجی را صحیح وارد نمایید.
+        </div>
+        <div class="cmnt-not alert alert-danger d-none">
+            مشکلی پیش آمده است. لطفا دوباره تلاش نمایید.
+        </div>
+    </div>
+
+</div>
+
+
+
+                    <div class="modal fade" id="reply-modal">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title"></h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    
+<form id="send-reply-cmnt">
+    <div class="form-group w-100">
+        <textarea class="form-control" rows="5" id="Text" placeholder="نظرتان را بیان کنید" data-val="true" data-val-required="&#x644;&#x637;&#x641;&#x627; &#x646;&#x638;&#x631; &#x62E;&#x648;&#x62F; &#x631;&#x627; &#x62B;&#x628;&#x62A; &#x646;&#x645;&#x627;&#x6CC;&#x6CC;&#x62F;" name="Text">
+</textarea>
+    </div>
+    <div class="d-flex flex-wrap align-content-between">
+        <div class="input-group mb-3 col-12 col-sm-6 pr-0">
+            <div class="input-group-prepend">
+                <span class="input-group-text"> <span class="oi oi-person"></span></span>
+            </div>
+            <input type="text" id="Name" class="form-control" placeholder="نام و نام خانوادگی" name="Name" value="">
+        </div>
+
+        <div class="input-group mb-3 col-12 col-sm-6 pl-0">
+            <div class="input-group-append">
+                <span class="input-group-text"><span class="oi oi-envelope-closed"></span></span>
+            </div>
+            <input type="email" id="Email" class="form-control" placeholder="آدرس ایمیل" name="Email" value="">
+        </div>
+
+        <div class="col-md-8 mb-2 pr-0 d-flex align-items-center">
+            <input type="hidden" name="CaptchaRefId" id="CaptchaRefId" value="GGD80ZBG8TQBXZO5UW0EU1M6P1C5Q9DS" />
+            <input type="text" class="col-4 form-control" name="CaptchaValue" id="CaptchaValue" autocomplete="off" autocorrect="off" placeholder="کد اعتبارسنجی" />
+            <img id="CaptchaImage" src="/Home/CaptchaImage/GGD80ZBG8TQBXZO5UW0EU1M6P1C5Q9DS" alt="Captcha" />
+            <span class="oi oi-reload refresh-captcha mr-1"></span>
+        </div>
+        <div class="form-group w-100">
+            <div class="w-100 ml-2">
+                <button type="button" class="btn btn-success btn-submit">ارسال</button>
+            </div>
+        </div>
+
+    </div>
+</form>
+
+<div>
+
+    <div class="rep-null alert alert-danger d-none">
+        لطفا پیام خود را وارد نمایید.
+    </div>
+    <div class="rep-ok alert alert-success d-none">
+        پیام شما با موفقیت ثبت گردید.
+    </div>
+    <div class="rep-wrong alert alert-danger d-none">
+        لطفا کد اعتبارسنجی را صحیح وارد نمایید.
+    </div>
+    <div class="rep-not alert alert-danger d-none">
+        مشکلی پیش آمده است. لطفا دوباره تلاش نمایید.
+    </div>
+</div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="show-comments" class="show-comments">
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="social-share col-1 d-none d-lg-block">
+                <ul class="d-flex align-items-center flex-column ltr">
+
+                    <li class="whatsapp" share-id="1">
+                        <a data-toggle="tooltip" title="اشتراک در واتس اپ" href="whatsapp://send?text=http://www.farsnews.ir/news/13931016000846/%DB%8C%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B2-%D9%81%DB%8C%D8%B6-%D9%85%D8%AD%D9%85%D8%AF-%DA%A9%D8%A7%D8%AA%D8%A8-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1-%D8%B4%D9%87%DB%8C%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86" data-action="share/whatsapp/share" target="_blank"></a>
+                    </li>
+
+                    <li class="gmail" share-id="2">
+                        <a data-toggle="tooltip" title="اشتراک در جی میل" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&body=http://www.farsnews.ir/news/13931016000846/%DB%8C%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B2-%D9%81%DB%8C%D8%B6-%D9%85%D8%AD%D9%85%D8%AF-%DA%A9%D8%A7%D8%AA%D8%A8-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1-%D8%B4%D9%87%DB%8C%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86" target="_blank"></a>
+                    </li>
+
+                    <li class="telegram" share-id="3">
+                        <a data-toggle="tooltip" title="اشتراک در تلگرام" href="https://t.me/share/url?url=http://www.farsnews.ir/news/13931016000846/%DB%8C%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B2-%D9%81%DB%8C%D8%B6-%D9%85%D8%AD%D9%85%D8%AF-%DA%A9%D8%A7%D8%AA%D8%A8-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1-%D8%B4%D9%87%DB%8C%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86" target="_blank"></a>
+                    </li>
+
+                    <li class="twitter" share-id="4">
+                        <a data-toggle="tooltip" title="اشتراک در توییتر" href="https://twitter.com/share?url=http://www.farsnews.ir/news/13931016000846/%DB%8C%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B2-%D9%81%DB%8C%D8%B6-%D9%85%D8%AD%D9%85%D8%AF-%DA%A9%D8%A7%D8%AA%D8%A8-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1-%D8%B4%D9%87%DB%8C%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86" target="_blank"></a>
+                    </li>
+                    <li class="fb" share-id="5">
+                        <a data-toggle="tooltip" title="اشتراک در فیسبوک" href="http://www.facebook.com/sharer.php?u=http://www.farsnews.ir/news/13931016000846/%DB%8C%D8%A7%D8%AF%DB%8C-%D8%A7%D8%B2-%D9%81%DB%8C%D8%B6-%D9%85%D8%AD%D9%85%D8%AF-%DA%A9%D8%A7%D8%AA%D8%A8-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%E2%80%8C%D9%86%DA%AF%D8%A7%D8%B1-%D8%B4%D9%87%DB%8C%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86" target="_blank"></a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+
+        <div class="col-12 col-lg-4 float-right mt-3 mt-md-0 d-flex pl-3 px-sm-0">
+            <div class="col-12 col-lg-9 pr-0">
+
+
+
+                <section class="mt-3 most">
+
+                    <div class="section-title d-flex mb-1 justify-content-between align-items-center">
+    <span class="title">پر بازدید ها</span>
+    <span class="arrow px-1">
+        <span class="oi oi-chevron-bottom"></span>
+    </span>
+</div>
+
+<div class="most-visit news-list-small">
+    <ul class="list-unstyled w-100"></ul>
+</div>
+
+
+                    
+<div class="section-title d-flex mb-1 justify-content-between align-items-center mt-3 w-100">
+    <span class="title">پر بحث ترین ها</span>
+    <span class="arrow px-1">
+        <span class="oi oi-chevron-bottom"></span>
+    </span>
+</div>
+
+<div class="most-comment news-list-small">
+    <ul class="list-unstyled w-100"></ul>
+</div>
+
+
+                    
+<div class="section-title d-flex mb-1 justify-content-between align-items-center mt-3">
+    <span class="title">بیشترین اشتراک</span>
+    <span class="arrow px-1">
+        <span class="oi oi-chevron-bottom"></span>
+    </span>
+</div>
+
+<div class="most-shared news-list-small">
+    <ul class="list-unstyled w-100"></ul>
+</div>
+
+
+                    
+
+    <div class="ads-native">
+        <div class="title-box d-flex justify-content-between align-items-center mt-3 px-2">
+            <span class="title">بازار</span>
+            <img src="/images/globe.png" alt="globe"/>
+        </div>
+
+        <div class="news-list-small">
+            <ul class="list-unstyled w-100">
+
+            </ul>
+        </div>
+
+    </div>
+
+
+
+
+
+
+                    <div class="widgets d-flex flex-column w-100">
+    <ul class="d-flex flex-wrap w-100 justify-content-around my-2">
+        <li data-toggle="tooltip" title="تلفن همراه" class="mobile">
+            <a href="/widgets/mobile/" target="_blank"></a>
+        </li>
+
+        <li data-toggle="tooltip" title="ارز" class="curreny"><a href="/widgets/currency/" target="_blank"></a></li>
+        <li data-toggle="tooltip" title="خودروهای داخلی" class="interior-cars"><a href="/widgets/cars/" target="_blank"></a></li>
+        <li data-toggle="tooltip" title="طلا و سکه" class="gold">
+            <a href="/widgets/gold/" target="_blank"></a>
+        </li>
+        <li data-toggle="tooltip" title="بورس" class="bource">
+            <a href="/widgets/bource/" target="_blank"></a>
+        </li>
+
+        <li data-toggle="tooltip" title="بیشتر" class="more">
+            <a href="#more-widgets" data-toggle="collapse"></a>
+        </li>
+
+    </ul>
+
+    <div class=" collapse" id="more-widgets">
+        <ul class="d-flex flex-wrap w-100 justify-content-around">
+            <li data-toggle="tooltip" title="لیگ فوتبال" class="leagues"><a href="/widgets/leagues/" target="_blank"></a></li>
+
+            <li data-toggle="tooltip" title="خودرو خارجی" class="foreign-cars">
+                <a href="/widgets/global-cars/" target="_blank"></a>
+            </li>
+
+            <li data-toggle="tooltip" title="دوربین عکاسی" class="camera">
+                <a href="/widgets/camera/" target="_blank"></a>
+            </li>
+            <li data-toggle="tooltip" title="کنسول بازی" class="console">
+                <a href="/widgets/console/" target="_blank"></a>
+            </li>
+            <li data-toggle="tooltip" title="مصالح ساختمانی" class="construction">
+                <a href="/widgets/construction/" target="_blank"></a>
+            </li>
+            <li data-toggle="tooltip" title="لپ تاپ" class="laptop">
+                <a href="/widgets/laptop/" target="_blank"></a>
+            </li>
+        </ul>
+
+        <ul class="d-flex flex-wrap w-100 justify-content-around my-2">
+            <li class="exc"></li>
+
+            <li data-toggle="tooltip" title="آهن آلات" class="metal-iron">
+                <a href="/widgets/metal-iron/" target="_blank"></a>
+            </li>
+            <li data-toggle="tooltip" title="کالاهای عمومی" class="global-products">
+                <a href="/widgets/global-products/" target="_blank"></a>
+            </li>
+
+            <li data-toggle="tooltip" title="تبلت" class="tablet">
+                <a href="/widgets/tablet/" target="_blank"></a>
+            </li>
+            <li data-toggle="tooltip" title="تلویزیون" class="tv">
+                <a href="/widgets/tv/" target="_blank"></a>
+            </li>
+            <li class="exc"></li>
+
+        </ul>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+                    <div id="mediaad-eaJw" class="mt-3"></div>
+
+                    <div id="mediaad-jCbu" class="d-flex flex-column"></div>
+
+
+                    
+
+    <div class="ads-native">
+        <div class="title-box d-flex justify-content-between align-items-center mt-3 px-2 py-1">
+            <span class="title">اخبار کسب و کار</span>
+            <img src="/images/native2.jpg" alt="globe" />
+        </div>
+
+        <div class="news-list-small">
+            <ul class="list-unstyled w-100">
+
+            </ul>
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+                </section>
+            </div>
+            <div class="col-3 d-none d-lg-inline-block p-0">
+                
+
+        <a href="http://iran-fun.ir/?utm_source=site&utm_medium=banner&utm_campaign=sistan" target="_blank">
+            <img class="mb-2 w-100 border" src="https://media.farsnews.ir/Uploaded/Files/Documents/1398/11/14/13981114000841_Test.gif" data-id="13951119000937" alt="ایران فان" />
+        </a>
+        <a href="http://www.alborzinsurance.ir" target="_blank">
+            <img class="mb-2 w-100 border" src="https://media.farsnews.ir/Uploaded/Files/Documents/1397/05/02/13970502000799_Test.gif" data-id="13970431000596" alt="بیمه البرز" />
+        </a>
+        <a href="http://nexfon.ir/?utm_source=farsnews&utm_medium=banner&utm_campaign=nexfonbahman98&utm_term=fixbanner" target="_blank">
+            <img class="mb-2 w-100 border" src="https://media.farsnews.ir/Uploaded/Files/Documents/1398/10/30/13981030000735_Test.gif" data-id="13970606000748" alt="رسپینا" />
+        </a>
+
+
+
+
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+<input id="CategoryId" name="CategoryId" type="hidden" value="6" />
+<input id="StoryCode" name="StoryCode" type="hidden" value="13931016000846" />
+<input id="StoryId" name="StoryId" type="hidden" value="1671394" />
+<input id="StoryPublishDate" name="StoryPublishDate" type="hidden" value="1/6/2015 2:08:00 PM" />
+<input id="ParentId" name="ParentId" type="hidden" value="0" />
+<input id="DontShowImg" name="DontShowImg" type="hidden" value="" />
+<input id="brwsname" name="brwsname" type="hidden" value="Mozilla/5.0" />
+<input id="RefererPage" name="RefererPage" type="hidden" value="" />
+<input id="IsOther" name="IsOther" type="hidden" value="False" />
+<input id="Reporter" name="Reporter" type="hidden" value="" />
+<input id="Publisher" name="Publisher" type="hidden" value="" />
+
+<script id="comments-children-template" type="text/x-handlebars-template">
+    <div class="border-bottom pb-3 mb-3 reply-item position-relative" data-id="{{id}}">
+        <span class="oi oi-caret-top position-absolute"></span>
+        <div class="d-flex flex-column p-3">
+            <div class="d-flex justify-content-between">
+                <span class="name">{{name}}<span> در پاسخ </span>{{parentName}}</span>
+                <span class="date">{{persianCreateDate}}</span>
+            </div>
+            <span class="cmnt my-3">{{text}}</span>
+            <div class="reply-like d-flex justify-content-between align-items-center">
+                <div class="reply-btn">
+                    <span class="oi oi-share ml-1 mt-1"></span>
+                    <button type="button" class="open-reply-modal btn" data-toggle="modal" data-target="#reply-modal" data-id="{{id}}">پاسخ</button>
+                </div>
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="like-box">
+                        <span class="ml-1 like-count">{{likeCount}}</span><span class="oi oi-heart" data-id="{{id}}" data-count="{{likeCount}}"></span>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    {{#each children}}
+
+    {{> comments-children-template}}
+
+    {{/each}}
+
+</script>
+
+
+<script id="comments-template" type="text/x-handlebars-template">
+
+    <div class="border-bottom mb-3 item" data-id="{{id}}">
+
+        <div class="d-flex flex-column p-3">
+            <div class="d-flex justify-content-between">
+                <span class="name">{{name}}</span>
+                <span class="date">{{persianCreateDate}}</span>
+            </div>
+            <span class="cmnt my-3">{{text}}</span>
+            <div class="reply-btn">
+                <div class="reply-like d-flex justify-content-between align-items-center">
+                    <div class="d-flex">
+                        <span class="oi oi-share ml-1 mt-1"></span>
+                        <button type="button" class="open-reply-modal btn" data-toggle="modal" data-target="#reply-modal" data-id="{{id}}">پاسخ</button>
+                    </div>
+                    <div class="like-box">
+                        <span class="ml-1 like-count">{{likeCount}}</span>
+                        <span class="oi oi-heart" data-id="{{id}}" data-count="{{likeCount}}"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+    {{#each children}}
+
+    {{> comments-children-template}}
+
+    {{/each}}
+
+
+</script>
+
+
+
+
+
+            <div class="footer py-2">
+                <div class="container">
+                    <div class="d-flex flex-column align-items-center">
+                        <div class="social mt-2">
+                            <ul class="list-unstyled">
+                                <li class="sorush"><a href="http://sapp.ir/farsna" target="_blank"></a></li>
+                                <li class="eita"><a href="https://eitaa.com/farsna" target="_blank"></a></li>
+                                <li class="igap"><a href="https://igap.net/farsna" target="_blank"></a></li>
+                                <li class="bale"><a href="http://ble.im/Farsna" target="_blank"></a></li>
+                                <li class="wispi"><a href="http://wispi.me/channel/farsna" target="_blank"></a></li>
+                                <li class="insta"><a href="https://instagram.com/fars_news" target="_blank"></a></li>
+                                <li class="twitter"><a href="https://twitter.com/FarsNews_Agency" target="_blank"></a></li>
+                                <li class="rss"><a href="/rsslinks" target="_blank"></a></li>
+
+                            </ul>
+                        </div>
+                        <ul class="contact-site mt-3 list-unstyled d-flex flex-wrap justify-content-center">
+                            <li><a href="/ethics">خط مشی</a></li>
+                            <li>
+                                <a href="mailto:info@farsnews.ir" target="_blank">ارتباط با ما</a>
+                            </li>
+                            <li><a href="/aboutus">سخن ما</a></li>
+                            <li><a href="/ads">تبلیغات در سایت</a></li>
+                            <li><a href="/problems">اعلام مشکل سایت</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="copy-right">
+                        <section class="d-flex justify-content-between align-items-end">
+                            <div class="logo-right d-flex">
+                            </div>
+                            <div class="logo-left-box d-flex flex-row-reverse align-items-end">
+                                <div class="logo-left d-flex">
+                                </div>
+                                <span>FARS</span>
+                                <span class="ml-1">NEWS AGENCY</span>
+                            </div>
+                        </section>
+                        <div class="mb-2 d-flex justify-content-center">
+                            <div class="license">
+                                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"></a>
+                                <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"></span>
+                                <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.farsnews.ir" property="cc:attributionName" rel="cc:attributionURL">Fars News Agency</a> <span>&nbsp;is licensed under a&nbsp;</span>
+                                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+                                <a xmlns:dct="http://purl.org/dc/terms/" href="http://www.farsnews.ir" rel="dct:source"></a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+            <a href="#" id="back-to-top" title="Back to top"><span class="oi oi-chevron-top"></span></a>
+        </main>
+        <div class="w-100 bottom-banner d-none">
+            <a target="_blank" class="w-100" href="https://mci.ir/eydi1399">
+                <img class="w-100" src="/images/hamraheaval-new.gif" alt="همراه اول" />
+            </a>
+            <span class="close">
+                <span aria-hidden="true">&times;</span>
+            </span>
+        </div>
+
+        <div class="blur d-none">
+        </div>
+    </div>
+    <input id="ReloadPage" name="ReloadPage" type="hidden" value="no" />
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    
+
+    <script src="/js/handlebars-v4.1.2.min.js"></script>
+    <script src="/js/newstext.min.js"></script>
+
+    <link rel="manifest" href="/manifest.json">
+
+</body>
+</html>
