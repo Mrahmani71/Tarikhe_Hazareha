@@ -4,7 +4,7 @@
         <title>خلاصه تاریخ مردم هزاره Blog</title>
         <link>https://mrahmani71.github.io//blog</link>
         <description>The best place to stay up-to-date with the latest خلاصه تاریخ مردم هزاره news and events.</description>
-        <lastBuildDate>Fri, 23 Oct 2020 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2020 06:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -13,6 +13,13 @@
             <link>https://mrahmani71.github.io//blog</link>
         </image>
         <copyright>حق نشر © 2020 محمد رحمانی</copyright>
+        <item>
+            <title><![CDATA[نگارش ۱.۱۰]]></title>
+            <link>https://mrahmani71.github.io//blog/2020/12/26/new-version-1.12.html</link>
+            <guid>https://mrahmani71.github.io//blog/2020/12/26/new-version-1.12.html</guid>
+            <pubDate>Sat, 26 Dec 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>تغییرات ماه دسامبر ۲۰۲۰</p> <p>آذر/دی ۱۳۹۹</p> <p>درود خدمت تمامی دوستان عزیز. مدت‌ها برنامه داشتم تا بتوانم یک تقویمی که رویدادهای مرتبط با مردم هزاره در آن درج شده باشد را طراحی کنم و در اختیار دوستان قرار بدهم. به همین دلیل شروع به جمع‌آوری رویدادهای مرتبط با ه...</p>]]></description>
+        </item>
         <item>
             <title><![CDATA[نگارش ۱.۱۰]]></title>
             <link>https://mrahmani71.github.io//blog/2020/10/23/new-version-1.10.html</link>
